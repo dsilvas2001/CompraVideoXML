@@ -1,0 +1,15 @@
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\bin\Debug\VideoCompra.exe.config
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\bin\Debug\VideoCompra.exe
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\bin\Debug\VideoCompra.pdb
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\bin\Debug\FontAwesome.Sharp.dll
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\bin\Debug\FontAwesome.Sharp.Material.dll
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.csproj.AssemblyReference.cache
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.Form1.resources
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.Properties.Resources.resources
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.csproj.GenerateResource.cache
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.csproj.CoreCompileInputs.cache
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.csproj.CopyComplete
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.exe
+D:\PROJECTVISUALCODE2019\VideoCompra\VideoCompra\obj\Debug\VideoCompra.pdb
